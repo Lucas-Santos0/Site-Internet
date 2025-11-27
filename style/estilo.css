@@ -1,0 +1,44 @@
+/* Pasta Site Internet CSS */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+body {
+	background-color: #b1cbf1;
+	font-family: 'Times New Roman';
+	list-style: none;
+	text-decoration: none;
+	margin: 1cm 3cm;
+}
+
+table {
+	text-decoration: none;
+	width: 60%;
+	display: inline-flex;
+	justify-content: center;
+}
+
+table tr td{
+    border-radius: 6px; /*bordas arredondadas*/
+ 	padding: 6px 10px;
+    color: rgb(0, 0, 0);
+	text-align: center;
+	background-color: #78abf7;
+}
+
+table td :hover{
+	background-color: #afc7eb69;
+}
+
+textarea {
+	resize: none;
+}
+
+p {
+	text-align: justify;
+	text-indent: 35px;
+
+}
